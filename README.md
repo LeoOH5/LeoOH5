@@ -2,11 +2,11 @@
 
 <img src="https://media.giphy.com/media/8nRxogx9tgvCzuSHLl/giphy.gif" width="260" alt="Nanami"/>
 
-# Hi, I'm Leo 🍟
+# Hi, I'm Leo
 
 **오정빈 · 문제를 보면 일단 만들어보는 개발자**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gowun+Dodum&weight=700&size=22&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=640&lines=%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EA%B0%80+%EB%96%A0%EC%98%A4%EB%A5%B4%EB%A9%B4+%EC%9D%BC%EB%8B%A8+%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80+%F0%9F%9A%80;%ED%95%B4%EC%BB%A4%ED%86%A4%EA%B3%BC+%EA%B3%B5%EB%AA%A8%EC%A0%84%EC%9D%84+%EC%A2%8B%EC%95%84%ED%95%A9%EB%8B%88%EB%8B%A4+%F0%9F%8F%83;Spring%EC%97%90%EC%84%9C+Next.js%2C+%EA%B7%B8%EB%A6%AC%EA%B3%A0+AI%EA%B9%8C%EC%A7%80+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gowun+Dodum&weight=700&size=22&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=640&lines=%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EA%B0%80+%EB%96%A0%EC%98%A4%EB%A5%B4%EB%A9%B4+%EC%9D%BC%EB%8B%A8+%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80;%ED%95%B4%EC%BB%A4%ED%86%A4%EA%B3%BC+%EA%B3%B5%EB%AA%A8%EC%A0%84%EC%9D%84+%EC%A2%8B%EC%95%84%ED%95%A9%EB%8B%88%EB%8B%A4;Spring%EC%97%90%EC%84%9C+Next.js%2C+%EA%B7%B8%EB%A6%AC%EA%B3%A0+AI%EA%B9%8C%EC%A7%80)](https://git.io/typing-svg)
 
 </div>
 
