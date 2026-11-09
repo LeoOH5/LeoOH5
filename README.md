@@ -75,18 +75,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/LeoOH5/LeoOH5/output/github-contribution-grid-snake-dark.svg)
 
-</div>
-
-## 📫 같이 뭐 만들어요
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/메일_보내기-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhwjdqls0409@korea.ac.kr)
-[![GitHub](https://img.shields.io/badge/팔로우-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeoOH5)
-![Visitors](https://komarev.com/ghpvc/?username=LeoOH5&label=%EB%8B%A4%EB%85%80%EA%B0%84%20%EC%82%AC%EB%9E%8C&color=F472B6&style=for-the-badge)
-
-<sub>🍟 감튀는 언제나 옳다</sub>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FDBA74,100:F472B6&height=110&section=footer)
 
 </div>
