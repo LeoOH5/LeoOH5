@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/pBHBkBupFGMAAAAC/malaysia-nanami.gif" width="100%" alt="Nanami"/>
+<img src="https://media.tenor.com/pBHBkBupFGMAAAAd/nanami-kento-nanami.gif" width="100%" alt="Nanami"/>
 
 # Hi, I'm Leo
 
