@@ -75,6 +75,4 @@
 
 ![Snake animation](https://raw.githubusercontent.com/LeoOH5/LeoOH5/output/github-contribution-grid-snake-dark.svg)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FDBA74,100:F472B6&height=110&section=footer)
-
 </div>
