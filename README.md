@@ -42,7 +42,7 @@
 ### 🍟 [감튀모임](https://github.com/LeoOH5/FriClass)
 동네별로 감자튀김 먹을 사람을 모아주는 지도 앱. 지역 선택 → 모임 생성 → 채팅까지 한 번에
 
-<a href="https://fri-class.vercel.app"><img src="https://raw.githubusercontent.com/LeoOH5/FriClass/main/media/promo.gif" width="100%"/></a>
+<a href="https://fri-class.vercel.app"><img src="https://raw.githubusercontent.com/LeoOH5/FriClass/main/media/promo.gif?v=2" width="100%"/></a>
 
 `Next.js` `Supabase` · [🔗 바로 써보기](https://fri-class.vercel.app)
 
